@@ -1,0 +1,13 @@
+Ping success to google.com:
+
+Pinging google.com [142.251.43.46] with 32 bytes of data:
+Reply from 142.251.43.46: bytes=32 time=106ms TTL=118
+Reply from 142.251.43.46: bytes=32 time=129ms TTL=118
+Reply from 142.251.43.46: bytes=32 time=9ms TTL=118
+Request timed out.
+
+Ping statistics for 142.251.43.46:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 129ms, Average = 81ms
+
